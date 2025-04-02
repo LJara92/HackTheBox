@@ -73,13 +73,13 @@ Sin embargo, el resultado devuelto es `0`, lo que indica que el comando `id` no 
 
 ### Ajuste del Payload
 
-![Modificacion de Payload](Imagenes/11-Modificacion%20Payload.jpg)
-
 Para corregirlo, modificamos el payload utilizando `popen` para leer la salida del comando:
 
 ```mako
 ${self.module.cache.util.os.popen('id').read()}
 ```
+
+![Modificacion de Payload](Imagenes/11-Modificacion%20Payload.jpg)
 
 Esto devuelve correctamente la información del usuario, confirmando que estamos ejecutando comandos en el servidor con permisos de **root**.
 
