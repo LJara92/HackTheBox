@@ -8,6 +8,8 @@ El objetivo es investigar y explotar vulnerabilidades en esta aplicación.
 
 ---
 
+![Iniciamos la maquina](HackTheBox/Challenges/Spookifier/Imagenes/1-Reconocimiento.jpg)
+
 ## Enumeración Inicial
 
 Iniciamos el challenge accediendo a la dirección proporcionada:
