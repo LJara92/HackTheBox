@@ -69,7 +69,7 @@ ltrace ./pass
 
 Ingresamos de nuevo `hackthebox` y observamos esto:
 
-![Intentamos con ltrace(Imagenes/Imagen6.jpg)
+![Intentamos con ltrace](Imagenes/Imagen6.jpg)
 
 ```
 strcmp("hackthebox", "s3cr3t_p455_f0r_gh05t5_4an_gh0ul")
@@ -90,7 +90,7 @@ Probamos con la cadena observada:
 
 Pero... no funciona. Algo falta
 
-![Intentamos con ltrace(Imagenes/Imagen7.jpg)
+![Password erronea](Imagenes/Imagen7.jpg)
 
 ---
 
@@ -101,12 +101,12 @@ Ejecutamos:
 ```bash
 strings pass 
 ```
-![Intentamos con ltrace(Imagenes/Imagen8.jpg)
+![String](Imagenes/Imagen8.jpg)
 
 ```bash
 strings pass | grep s3cr3t
 ```
-![Intentamos con ltrace(Imagenes/Imagen8B.jpg)
+![String & grep](Imagenes/Imagen8B.jpg)
 
 Resultado:
 ```
@@ -128,7 +128,7 @@ Ejecutamos nuevamente:
 
 ✅ Y ahora sí, accedemos con éxito. Desafío completado. 🎉
 
-![Intentamos con ltrace(Imagenes/Imagen9.jpg)
+![Flag obtenida](Imagenes/Imagen9.jpg)
 
 ---
 
