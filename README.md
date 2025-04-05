@@ -13,6 +13,7 @@ Bienvenido a mi repositorio de **Hack The Box (HTB) Write-ups**. Aquí encontrar
 Actualmente disponible:
 
 🔹 [Spookifier (Challenge)](Challenges/Spookifier/WriteUp.md)
+🔹 [SpookyPass (Challenge)](Challenges/SpookyPass/WriteUp.md)
 Próximamente más write-ups... 🔍
 
 ---
