@@ -114,7 +114,7 @@ Volvemos a la consola del juego e introducimos el comando:
 
 ![Flag obtenida](Imagenes/Imagen11.jpg)
 
-🎉 ¡Aparece un archivo nuevo en el panel de red llamado `monitor`! Dentro del `Preview` de su respuesta, encontramos la flag:
+🎉 ¡Ya obtuvimos la **flag** pero no nos deja copiarla, vamos a las DevTools y vemos que hay un archivo nuevo en el panel de red llamado `monitor`! Dentro del `Response` de su respuesta, encontramos la flag y se puede copiar!:
 
 ```bash
 HTB{D3v310p3r_t0015_4z3_b35t__t0015_wh4t_de_y}
