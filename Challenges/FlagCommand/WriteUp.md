@@ -84,16 +84,16 @@ Presionamos `F12` y revisamos las pestañas:
 ### 📁 **Sources:**
 Vemos el código del juego y algunas constantes interesantes como `GAME_WON`, pero no contiene la flag.
 
-![F12](Imagenes/Imagen6.jpg)
+![F12](Imagenes/Imagen7.jpg)
 
 ### 🌐 **Network:**
 Aquí encontramos algo clave: una petición a una API `OPTIONS`, lo cual indica que hay una API que podríamos investigar.
 
-![Network](Imagenes/Imagen7.jpg)
+![Network](Imagenes/Imagen8.jpg)
 
 Dentro de la pestaña `Preview` de una de las respuestas, encontramos comandos no listados anteriormente, incluyendo un **comando secreto**:
 
-![Comando secreto](Imagenes/Imagen8.jpg)
+![Comando secreto](Imagenes/Imagen9.jpg)
 
 ```text
 "secret": [
@@ -101,7 +101,7 @@ Dentro de la pestaña `Preview` de una de las respuestas, encontramos comandos n
 ]
 ```
 
-![Abrimos la API](Imagenes/Imagen9.jpg)
+![Abrimos la API](Imagenes/Imagen10.jpg)
 
 ---
 
@@ -113,7 +113,7 @@ Volvemos a la consola del juego e introducimos el comando:
 >> Blip-blop, in a pickle with a hiccup! Shmiggity-shmack
 ```
 
-![Comandos basicos](Imagenes/Imagen10.jpg)
+![Flag obtenida](Imagenes/Imagen11.jpg)
 
 🎉 ¡Aparece un archivo nuevo en el panel de red llamado `monitor`! Dentro del `Preview` de su respuesta, encontramos la flag:
 
@@ -121,8 +121,8 @@ Volvemos a la consola del juego e introducimos el comando:
 HTB{D3v310p3r_t0015_4z3_b35t__t0015_wh4t_de_y}
 ```
 
-![Comandos basicos](Imagenes/Imagen11.jpg)
 ![Final](Imagenes/Imagen12.jpg)
+
 ---
 
 ## 🧠 Lecciones aprendidas
