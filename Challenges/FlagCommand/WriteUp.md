@@ -62,9 +62,6 @@ Usamos `start` para comenzar la aventura:
 ```bash
 >> start
 ```
-
-![Iniciamos juego](Imagenes/Imagen5.jpg)
-
 El juego muestra un entorno tipo historia de texto con opciones como:
 
 ```
@@ -75,6 +72,8 @@ HEAD WEST
 ```
 
 Ninguna acción parece llevarnos a la flag, así que comenzamos a investigar más a fondo usando las herramientas de desarrollo del navegador.
+
+![Iniciamos juego](Imagenes/Imagen5.jpg)
 
 ---
 
