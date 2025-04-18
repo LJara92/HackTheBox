@@ -41,8 +41,6 @@ $(id)
 
 Pero la terminal responde que esos comandos no están disponibles. Usamos `help` para ver qué opciones están disponibles.
 
-![Comandos basicos](Imagenes/Imagen4.jpg)
-
 ```bash
 >> help
 ```
@@ -53,6 +51,7 @@ Se listan algunos comandos como:
 - `clear`
 - `restart`
 
+![Comandos basicos](Imagenes/Imagen4.jpg)
 
 ---
 
