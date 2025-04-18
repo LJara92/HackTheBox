@@ -92,7 +92,7 @@ Aquí encontramos algo clave: una petición a una API `OPTIONS`, lo cual indica 
 ![Network](Imagenes/Imagen8.jpg)
 ![Comando secreto](Imagenes/Imagen9.jpg)
 
-Si abrimos la direccion de la API en una nueva prestaña, encontramos comandos no listados anteriormente, incluyendo un **comando secreto**:
+Si abrimos la direccion de la API en una nueva prestaña, encontramos un comando no listado anteriormente **secret**:
 
 ```text
 "secret": [
