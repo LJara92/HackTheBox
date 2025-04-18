@@ -90,10 +90,9 @@ Vemos el código del juego y algunas constantes interesantes como `GAME_WON`, pe
 Aquí encontramos algo clave: una petición a una API `OPTIONS`, lo cual indica que hay una API que podríamos investigar.
 
 ![Network](Imagenes/Imagen8.jpg)
-
-Dentro de la pestaña `Preview` de una de las respuestas, encontramos comandos no listados anteriormente, incluyendo un **comando secreto**:
-
 ![Comando secreto](Imagenes/Imagen9.jpg)
+
+Si abrimos la direccion de la API en una nueva prestaña, encontramos comandos no listados anteriormente, incluyendo un **comando secreto**:
 
 ```text
 "secret": [
