@@ -16,6 +16,8 @@ Actualmente disponible:
 
 🔹 [SpookyPass (Challenge)](Challenges/SpookyPass/WriteUp.md)
 
+🔹 [FlagCommand (Challenge)](Challenges/FlagCommand/WriteUp.md)
+
 Próximamente más write-ups... 🔍
 
 ---
